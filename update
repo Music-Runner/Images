@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull
 echo "# Images" > README.md
 git init
 git add .
